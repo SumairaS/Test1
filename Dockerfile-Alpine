@@ -2,7 +2,7 @@
 ARG VERSION
 
 # Set environment variable
-ENV MY_VERSION=3.14
+ENV MY_VERSION=3.13
 
 # Install necessary packages or copy files
 RUN apk add --no-cache bash
