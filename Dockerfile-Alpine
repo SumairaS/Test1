@@ -1,4 +1,4 @@
-# Use a specific version of the official Alpine image as base
+# Use a specific Version of the official Alpine image as base
 FROM alpine:3.14
 
 # Install necessary packages or copy files
