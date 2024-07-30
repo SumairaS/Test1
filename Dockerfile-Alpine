@@ -1,7 +1,7 @@
 # Use a specific version of the official Alpine image as base
 FROM alpine:3.9
 
-# Install necessary packages or copy files
+## Install necessary packages or copy files
 RUN apk add --no-cache bash
 
 # Example of a simple command to verify the image is running
